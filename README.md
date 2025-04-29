@@ -13,5 +13,3 @@ This repository will host the source code for my personal portfolio website, cur
 - Blog or update section for ongoing builds and experiments
 - Fully mobile-friendly design
 - Hosted via GitHub Pages once complete
-
-Stay tuned as this site evolves from basic scaffolding into a full-featured online portfolio.
